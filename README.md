@@ -1,4 +1,4 @@
-# woocommerce-telegram
+# woocommerce-telegram (Python)
 
 # 🔧 Use Case Example
 
